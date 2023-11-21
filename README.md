@@ -1,4 +1,5 @@
 # Terraform Zero to Hero course
+youtube playlist: https://www.youtube.com/watch?v=fgp-t5SqQmM&list=PLdpzxOOAlwvI0O4PeKVV1-yJoX2AqIWuf&index=1
 
 ## Day 1: Getting Started with Terraform
 
